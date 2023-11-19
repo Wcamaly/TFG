@@ -23,6 +23,12 @@ para visualizar los branch en los submodules ejecutamos:
 git submodule status
 ```
 
+una vez descargado nos posicionamos en el branch
+
+```shell
+git checkout develop
+```
+
 Si queremos cambiar el branch de todos los submodules:
 
 ```shell
