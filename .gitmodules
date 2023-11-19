@@ -7,3 +7,21 @@
 [submodule "tfg_kubernetes-hyperledger"]
 	path = tfg_kubernetes-hyperledger
 	url = https://github.com/Wcamaly/tfg_kubernetes-hyperledger.git
+[submodule "tfg_apigateway"]
+	path = tfg_apigateway
+	url = https://github.com/Wcamaly/tfg_apigateway.git
+[submodule "tfg_organization-service"]
+	path = tfg_organization-service
+	url = https://github.com/Wcamaly/tfg_organization-service.git
+[submodule "tfg_blockchain-service"]
+	path = tfg_blockchain-service
+	url = https://github.com/Wcamaly/tfg_blockchain-service.git
+[submodule "tfg_medical-center-service"]
+	path = tfg_medical-center-service
+	url = https://github.com/Wcamaly/tfg_medical-center-service.git
+[submodule "tfg_medical-service"]
+	path = tfg_medical-service
+	url = https://github.com/Wcamaly/tfg_medical-service.git
+[submodule "tfg_auth-service"]
+	path = tfg_auth-service
+	url = https://github.com/Wcamaly/tfg_auth-service.git
