@@ -1,0 +1,9 @@
+[submodule "tfg_user-service"]
+	path = tfg_user-service
+	url = https://github.com/Wcamaly/tfg_user-service.git
+[submodule "tfg_person-service"]
+	path = tfg_person-service
+	url = https://github.com/Wcamaly/tfg_person-service.git
+[submodule "tfg_kubernetes-hyperledger"]
+	path = tfg_kubernetes-hyperledger
+	url = https://github.com/Wcamaly/tfg_kubernetes-hyperledger.git
